@@ -35,7 +35,7 @@ sur la racine
 
 chroot /linux
 
-
+/\ Attention, pour Windows, bien penser a éteindre l'OS de façon naturel (Windows, éteindre) à la place de couper la VM.
 
 4. Lister les partitions (nous sommes sous Linux) et repérer la partition contenant  
 Linux
